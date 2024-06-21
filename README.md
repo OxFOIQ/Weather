@@ -7,11 +7,11 @@
 
 - Retrieve current weather conditions for a specified location.
 
-- Display detailed weather information such as temperature, humidity, wind speed, and chance of rain.
+- Display detailed weather information such as temperature, humidity , and chance of rain.
 
 - Command-line interface (CLI) for easy interaction.
 
-- Technologies Used
+## Technologies Used
 
 - Golang (Go programming language)
 
